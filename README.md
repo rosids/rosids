@@ -14,8 +14,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosids&layout=compact&theme=dark" />
 </a>
 
-<p>
+<p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rosiele%20David-yellow?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosieledavid/)](https://www.linkedin.com/in/rosieledavid/) [![Outlook Badge](https://img.shields.io/badge/-Rosiele%20David-yellow?logo=mail.ru&style=flat-square&logoColor=white&link=mailto:rosieleserpa@hotmail.com)](mailto:rosieleserpa@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Rosiele%20David-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosieledavid/)](https://www.linkedin.com/in/rosieledavid/) [![Outlook Badge](https://img.shields.io/badge/-Rosiele%20David-blue?logo=mail.ru&style=flat-square&logoColor=white&link=mailto:rosieleserpa@hotmail.com)](mailto:rosieleserpa@hotmail.com)
 
 </p>
