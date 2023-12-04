@@ -7,6 +7,8 @@
   🤓 I'm currently learning HTML, CSS, JavaScript, Jest, React.
 
   💬 **About me**: I like technology, games, movies and series.
+  
+  📧 **Email**: rosieleserpa@hotmail.com
 
 </div>
 
