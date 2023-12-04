@@ -8,7 +8,7 @@
 
   💬 **About me**: I like technology, games, movies and series.
   
-  📧 **Email**: rosieleserpa@hotmail.com
+  📧 **Email**: <a href="mailto:rosieleserpa@hotmail.com">rosieleserpa@hotmail.com</a>
 
 </div>
 
